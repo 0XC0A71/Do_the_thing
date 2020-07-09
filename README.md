@@ -4,5 +4,8 @@ Curls a site and provides credentials. The results of that operation are piped o
 
 #New functionality I'd like to add 
 
-Collect cookies from site. 
- curl --cookie-jar cnncookies.txt https://www.cnn.com/index.html -O
+Collect cookies from site.
+
+Will use something like this:  
+
+"curl --cookie-jar cnncookies.txt https://www.cnn.com/index.html -O" 
