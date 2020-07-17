@@ -28,6 +28,11 @@ Reference for later: https://shapeshed.com/unix-exit-codes/
 
 ## pipe non 200s to a different output 
 
+$? to collect the exit code 
+
+&&  if success 
+
+|| if failure 
 
 ## create modular elements so I can reuse them 
 
