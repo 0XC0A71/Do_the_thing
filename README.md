@@ -28,3 +28,7 @@ Reference for later: https://shapeshed.com/unix-exit-codes/
 
 ## pipe non 200s to a different output 
 
+
+## create modular elements so I can reuse them 
+
+https://en.wikibooks.org/wiki/Bourne_Shell_Scripting/Modularization 
