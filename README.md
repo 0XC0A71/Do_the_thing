@@ -1,5 +1,7 @@
-# auto_curl
-Curls a site and provides credentials.The results of that operation are piped out for review. 
+# Do_the_thing 
+
+1.Curls a site and provides credentials.The results of that operation are piped out for review.
+2.Use the framework from the curl script to automate data collection 
 
 Helps with reconnaissance and collection of bulk information. 
 
