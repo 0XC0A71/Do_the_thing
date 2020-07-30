@@ -1,0 +1,8 @@
+#! /bin/bash 
+
+#quick and dirty script to pull down one page and grep through it for specific strings. Used the components to harvest the defcon speaker twitter accounts and 
+#I want to flesh it out a little at some point. 
+
+curl $URL >> $1filename.txt 
+
+cat $filename.txt | grep -E -o ".{0,5}$string.{0,20}" >> $2filename.txt 
